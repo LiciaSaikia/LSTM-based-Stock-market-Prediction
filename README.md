@@ -20,11 +20,11 @@ Welcome to a stock market forecasting tool built using Python, Streamlit, and LS
 
 ## Why Forecast Stock Prices?
 
-Predicting stock prices isn’t about perfect accuracy—it's about capturing **market trends**. With LSTM, we can analyze historical sequences and generate informed, multi-day forecasts. This helps investors and analysts make more confident decisions.
+Predicting stock prices isn’t about perfect accuracy—it's about capturing **market trends**. With LSTM, we can analyze historical sequences and generate informed, multi-day forecasts. This helps investors and analysts make more confident decisions. 
 
 ---
 
-## Tech Stack
+## Tech Stack that was used 
 
 | Component       | Tool/Library            |
 |----------------|--------------------------|
